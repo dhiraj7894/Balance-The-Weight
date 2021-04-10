@@ -58,7 +58,7 @@ public class _weightMovement : MonoBehaviour
 
         if (lRCDistance.magnitude < 0.9f)
         {
-            /*leftRope.leftR.weightAdder();*/
+            //leftRope.leftR.weightAdder();
 
             if(weight == 3)
             {
